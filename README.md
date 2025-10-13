@@ -70,7 +70,7 @@ You can hover the img to for it alt text (desc)
 
 ## Issues encountered and fixes
 - Missing `libaio.so.1` → installed / created symlink.
-- Permission issues while converting RPM → used `alien --scripts` and ensured directories owned by Oracle.
+- Permission issues while converting RPM → used `alien --scripts` and ensured directories owned by Oracle. 
 - Issues in getting oracle bin path
 - **File path error**: Corrected from `C:\app\Oracle\...` to `C:\ORACLE21C\...`
 - **Solution**: Used the correct installation path shown in error message
