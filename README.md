@@ -66,7 +66,9 @@ You can hover the img to for it alt text (desc)
 - 8-Verify-creation ![8-Verify-creation](./found-img/8-Verify-creation.png "Verify creation")
 - 9-Pluggable-database-dropped ![9-Pluggable-database-dropped](./found-img/9-Pluggable-database-dropped.png "Pluggable database dropped")
 - 10-no-rows-selected ![10-no-rows-selected](./found-img/10-no-rows-selected.png "no rows selected ")
--
+- 11-OEM ![11-OEM](./found-img/11-OEM.png " Here is the login in OEM")
+
+- 11-OEM Login ![11-Log in](./found-img/12-OEM-Log-IN.png " Here is the Dashboard in OEM")
 
 ## Issues encountered and fixes
 - Missing `libaio.so.1` → installed / created symlink.
