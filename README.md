@@ -44,11 +44,9 @@ ect ...
 - 5-GrantPrivilenges
 - 6-privileges-Assigned-to-user
 - 7-Pluggable-database-created
--
--
--
--
--
+- 8-Verify-creation
+- 9-Pluggable-database-dropped
+- 10-no-rows-selected
 -
 
 ## Issues encountered and fixes
