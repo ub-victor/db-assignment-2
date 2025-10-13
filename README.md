@@ -53,6 +53,9 @@ ect ...
 - Missing `libaio.so.1` → installed / created symlink.
 - Permission issues while converting RPM → used `alien --scripts` and ensured directories owned by Oracle.
 - Issues in getting oracle bin path
+- **File path error**: Corrected from `C:\app\Oracle\...` to `C:\ORACLE21C\...`
+- **Solution**: Used the correct installation path shown in error message
+- Oracle Enterprise Manager not found in standard installation(I am still working on it)
 
 ## Conclusion
 All tasks completed. If instructor wants access to the database, credentials are:
