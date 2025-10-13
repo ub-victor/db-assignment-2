@@ -52,7 +52,7 @@ ect ...
 ## Issues encountered and fixes
 - Missing `libaio.so.1` → installed / created symlink.
 - Permission issues while converting RPM → used `alien --scripts` and ensured directories owned by Oracle.
-- (Add any errors you hit and how you solved them.)
+- Issues in getting oracle bin path
 
 ## Conclusion
 All tasks completed. If instructor wants access to the database, credentials are:
