@@ -63,7 +63,7 @@ You can hover the img to for it alt text (desc)
 - 5-GrantPrivilenges ![5-GrantPrivilenges](./found-img/5-GrantPrivilenges.png "Grant Privilenges ")
 - ![6-privileges-Assigned-to-user](./found-img/6-privileges-Assigned-to-user.png "6 privileges Assigned to user")
 - ![7-Pluggable-database-created](./found-img/7-Pluggable-database-created.png "Pluggable database created")
-- ![8-Verify-creation](./found-img/8-Verify-creation.png "Verify creation")
+- 8-Verify-creation ![8-Verify-creation](./found-img/8-Verify-creation.png "Verify creation")
 - 9-Pluggable-database-dropped ![9-Pluggable-database-dropped](./found-img/9-Pluggable-database-dropped.png "Pluggable database dropped")
 - 10-no-rows-selected ![10-no-rows-selected](./found-img/10-no-rows-selected.png "no rows selected ")
 -
