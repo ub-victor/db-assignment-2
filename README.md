@@ -10,7 +10,31 @@
 - Task 3: Accessed EM Express and captured dashboard.
 
 ## Commands used
-(See create_pdb.sql and create_then_drop_pdb.sql)
+```
+sqlplus / as sysdba
+ALTER USER system IDENTIFIED BY new_password;
+ALTER USER sys IDENTIFIED BY new_password;
+ALTER USER victoire IDENTIFIED BY new_password123;
+CREATE USER victoire IDENTIFIED BY your_password;
+GRANT CONNECT, RESOURCE TO victoire;
+-- Show all PDBs
+SELECT name, open_mode FROM v$pdbs;
+
+-- Verify your PDB
+ALTER SESSION SET CONTAINER = us_pdb_27269;
+
+-- Verify your user
+SELECT username, account_status, created FROM dba_users 
+WHERE username = 'USHINDI_PLSQLAUCA_27269';
+
+-- Show user privileges
+SELECT privilege FROM dba_sys_privs 
+WHERE grantee = 'USHINDI_PLSQLAUCA_27269';
+See create_pdb.sql and create_then_drop_pdb.sql
+
+ect ...
+
+```
 
 ## Screenshots
 - Task1: `screenshots/task1_create_pdb.png`
