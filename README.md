@@ -42,10 +42,10 @@ ect ...
 - ![3-read-and-write](./found-img/3-read-and-write.png "Read and write")
 - ![4-create-user](./found-img/4-create-user.png "Create user")
 - ![5-GrantPrivilenges](./found-img/ "Grant Privilenges ")
-- 6-privileges-Assigned-to-user ![]( "")
-- 7-Pluggable-database-created ![]( "")
-- 8-Verify-creation ![]( "")
-- 9-Pluggable-database-dropped ![]( "")
+- ![6-privileges-Assigned-to-user]( "6 privileges Assigned to user")
+- ![7-Pluggable-database-created](./found-img/7-Pluggable-database-created.png "Pluggable database created")
+- ![8-Verify-creation](./found-img/8-Verify-creation.png "Verify creation")
+- ![9-Pluggable-database-dropped](./found-img/9-Pluggable-database-dropped.png "Pluggable database dropped")
 - 10-no-rows-selected ![]( "")
 -
 
