@@ -37,12 +37,14 @@ ect ...
 ```
 
 ## Screenshots
+
+You can hover the img to for it alt text (desc)
 - ![1-Pluggable-database-created](./found-img/1-Pluggable-database-created.png "Pluggable database created")
 - ![2- PDB US_PDB_27269](./found-img/2-%20PDB%20US_PDB_27269.png "2- PDB US_PDB_27269")
 - ![3-read-and-write](./found-img/3-read-and-write.png "Read and write")
 - ![4-create-user](./found-img/4-create-user.png "Create user")
-- ![5-GrantPrivilenges](./found-img/ "Grant Privilenges ")
-- ![6-privileges-Assigned-to-user]( "6 privileges Assigned to user")
+- ![5-GrantPrivilenges](./found-img/5-GrantPrivilenges.png "Grant Privilenges ")
+- ![6-privileges-Assigned-to-user](./found-img/6-privileges-Assigned-to-user.png "6 privileges Assigned to user")
 - ![7-Pluggable-database-created](./found-img/7-Pluggable-database-created.png "Pluggable database created")
 - ![8-Verify-creation](./found-img/8-Verify-creation.png "Verify creation")
 - ![9-Pluggable-database-dropped](./found-img/9-Pluggable-database-dropped.png "Pluggable database dropped")
