@@ -35,6 +35,20 @@ SELECT privilege FROM dba_sys_privs
 WHERE grantee = 'USHINDI_PLSQLAUCA_27269';
 See create_pdb.sql and create_then_drop_pdb.sql
 
+-- Created temporary PDB
+CREATE PLUGGABLE DATABASE us_to_delete_pdb_27269
+ADMIN USER temp_admin IDENTIFIED BY temp123
+FILE_NAME_CONVERT = ('C:\\ORACLE21C\\ORADATA\\ORCL\\PDBSEED\\', 'C:\\ORACLE21C\\ORADATA\\ORCL\\US_TO_DELETE_PDB_27269\\');
+
+-- Verified creation
+SELECT name, open_mode FROM v$pdbs WHERE name LIKE '%DELETE%';
+
+-- Deleted PDB
+DROP PLUGGABLE DATABASE us_to_delete_pdb_27269 INCLUDING DATAFILES;
+
+-- Verified deletion
+SELECT name, open_mode FROM v$pdbs WHERE name LIKE '%DELETE%';
+
 ect ...
 
 ```
