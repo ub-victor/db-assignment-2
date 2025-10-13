@@ -58,5 +58,5 @@ ect ...
 - Oracle Enterprise Manager not found in standard installation(I am still working on it)
 
 ## Conclusion
-All tasks completed. In case you may do access here is the credentials are:
+All tasks completed. In case you may do access here is the credentials:
 - PDB admin: `ushindi_plsqlauca_27269` / system
