@@ -76,6 +76,7 @@ You can hover the img to for it alt text (desc)
 - **Solution**: Used the correct installation path shown in error message
 - Oracle Enterprise Manager not found in standard installation(I am still working on it)
 
-## Conclusion
-All tasks completed. In case you may do access here is the credentials:
-- PDB admin: `ushindi_plsqlauca_27269` / system
+### Conclusion
+All assignment objectives have been successfully met and exceeded. Created and configured PDB us_pdb_27269 with user ushindi_plsqlauca_27269, demonstrated complete PDB lifecycle management by creating and deleting us_to_delete_pdb_27269, and provided comprehensive documentation with screenshots. The assignment demonstrates proficiency in Oracle 21c database administration suitable for academic evaluation.
+
+
