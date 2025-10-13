@@ -43,7 +43,7 @@ ect ...
 - 4-create-user
 - 5-GrantPrivilenges
 - 6-privileges-Assigned-to-user
--
+- 7-Pluggable-database-created
 -
 -
 -
