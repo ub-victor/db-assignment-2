@@ -46,7 +46,7 @@ ect ...
 - ![7-Pluggable-database-created](./found-img/7-Pluggable-database-created.png "Pluggable database created")
 - ![8-Verify-creation](./found-img/8-Verify-creation.png "Verify creation")
 - ![9-Pluggable-database-dropped](./found-img/9-Pluggable-database-dropped.png "Pluggable database dropped")
-- 10-no-rows-selected ![]( "")
+- ![10-no-rows-selected](./found-img/10-no-rows-selected.png "no rows selected ")
 -
 
 ## Issues encountered and fixes
@@ -58,5 +58,5 @@ ect ...
 - Oracle Enterprise Manager not found in standard installation(I am still working on it)
 
 ## Conclusion
-All tasks completed. If instructor wants access to the database, credentials are:
+All tasks completed. In case you may do access here is the credentials are:
 - PDB admin: `ushindi_plsqlauca_27269` / system
