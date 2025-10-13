@@ -37,7 +37,7 @@ ect ...
 ```
 
 ## Screenshots
-- 1-Pluggable-database-created 
+- ![1-Pluggable-database-created](./found-img/1-Pluggable-database-created.png "Pluggable database created")
 - 2- PDB US_PDB_27269
 - 3-read-and-write
 - 4-create-user
