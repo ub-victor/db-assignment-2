@@ -38,15 +38,15 @@ ect ...
 
 ## Screenshots
 - ![1-Pluggable-database-created](./found-img/1-Pluggable-database-created.png "Pluggable database created")
-- 2- PDB US_PDB_27269
-- 3-read-and-write
-- 4-create-user
-- 5-GrantPrivilenges
-- 6-privileges-Assigned-to-user
-- 7-Pluggable-database-created
-- 8-Verify-creation
-- 9-Pluggable-database-dropped
-- 10-no-rows-selected
+- ![2- PDB US_PDB_27269](./found-img/2-%20PDB%20US_PDB_27269.png "2- PDB US_PDB_27269")
+- ![3-read-and-write](./found-img/3-read-and-write.png "Read and write")
+- ![4-create-user](./found-img/4-create-user.png "Create user")
+- ![5-GrantPrivilenges](./found-img/ "Grant Privilenges ")
+- 6-privileges-Assigned-to-user ![]( "")
+- 7-Pluggable-database-created ![]( "")
+- 8-Verify-creation ![]( "")
+- 9-Pluggable-database-dropped ![]( "")
+- 10-no-rows-selected ![]( "")
 -
 
 ## Issues encountered and fixes
