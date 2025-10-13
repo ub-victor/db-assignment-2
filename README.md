@@ -37,10 +37,19 @@ ect ...
 ```
 
 ## Screenshots
-- Task1: `screenshots/task1_create_pdb.png`
-- Task2 created: `screenshots/task2_create_to_delete.png`
-- Task2 deleted: `screenshots/task2_after_delete.png`
-- Task3 OEM: `screenshots/task3_oem_dashboard.png`
+- 1-Pluggable-database-created 
+- 2- PDB US_PDB_27269
+- 3-read-and-write
+- 4-create-user
+- 5-GrantPrivilenges
+- 6-privileges-Assigned-to-user
+-
+-
+-
+-
+-
+-
+-
 
 ## Issues encountered and fixes
 - Missing `libaio.so.1` → installed / created symlink.
